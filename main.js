@@ -2,6 +2,17 @@
  * YOUR CODE BELOW *
  ******************/
 
+let myFirstName = 'Steve';
+let myLastName = 'Hixson';
+let myBestFriend = 'Bucky'; 
+let mySentence = 'k';
+let myFavoriteNum = 11;
+let myFavoriteYear = 2011;
+let myMentalAge = 35;
+let myHeight = 54;
+let mySum = 3 + 1918 + 24 + 1;
+let myProduct = 
+let myHeightAndAge = 63;
 
 
 
